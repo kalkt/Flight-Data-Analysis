@@ -1,0 +1,51 @@
+airport_id,airport_code,airport_name,city,state,country,latitude,longitude,total_passengers_boarding_2023
+1,ATL,Hartsfield-Jackson Atlanta International Airport,Atlanta,GA,United States,33.614423,-72.710713,50949963
+2,LAX,Los Angeles International Airport,Los Angeles,CA,United States,41.835861,-92.073783,36676909
+3,ORD,O'Hare International Airport,Chicago,IL,United States,28.588429,-116.420301,35843044
+4,DFW,Dallas/Fort Worth International Airport,Dallas,TX,United States,26.335923,-77.360312,39246168
+5,DEN,Denver International Airport,Denver,CO,United States,38.825645,-86.056008,37863886
+6,JFK,John F. Kennedy International Airport,New York,NY,United States,25.473443,-71.654958,30493746
+7,SFO,San Francisco International Airport,San Francisco,CA,United States,44.146181,-113.321349,24190936
+8,SEA,Seattle-Tacoma International Airport,Seattle,WA,United States,29.181974,-114.912752,24594176
+9,LAS,McCarran International Airport,Las Vegas,NV,United States,31.997572,-96.138396,27816351
+10,MCO,Orlando International Airport,Orlando,FL,United States,34.934735,-108.982397,28033092
+11,CLT,Charlotte Douglas International Airport,Charlotte,NC,United States,35.213889,-80.943056,25895812
+12,MIA,Miami International Airport,Miami,FL,United States,25.793333,-80.290556,24716689
+13,EWR,Newark Liberty International Airport,Newark,NJ,United States,40.6925,-74.168611,24505753
+14,PHX,Phoenix Sky Harbor International Airport,Phoenix,AZ,United States,33.434167,-112.011667,23880259
+15,IAH,George Bush International Airport,Houston,TX,United States,29.984444,-95.341389,22228797
+16,BOS,Logan International Airport,Boston,MA,United States,42.363056,-71.006389,19961410
+17,FLL,Fort Lauderdale-Hollywood International Airport,Fort Lauderdale,FL,United States,26.0725,-80.152778,17042635
+18,MSP,Minneapolis-St Paul International Airport,Minneapolis,PA,United States,44.881944,-93.221667,17019006
+19,LGA,LaGuardia,New York,NY,United States,40.775,-73.875,16172930
+20,DTW,Detroit Metropolitan Airport,Detroit,MI,United States,42.2125,-83.353333,15378529
+21,PHL,Philadelphia International Airport,Philadelphia,PA,United States,39.871944,-75.241111,13655750
+22,SLC,Salt Lake City International Airport,Salt Lake City,UT,United States,40.788333,-111.977778,12904770
+23,BWI,Baltimore/Washington International Thurgood  Airport,Baltimore,MD,United States,39.175278,-76.668333,12849430
+24,DCA,Ronald Reagan Washington National,Washington,DC,United States,38.852222,-77.037778,12365011
+25,SAN,San Diego International Airport,San Diego,CA,United States,32.733611,-117.189722,12189889
+26,IAD,Dulles International Airport,Washington,DC,United States,38.944444,-77.455833,12072737
+27,TPA,Tampa International Airport,Tampa,FL,United States,27.979722,-82.534722,11677288
+28,BNA,Nashville International Airport,Nashville,TN,United States,36.126667,-86.681944,11226820
+29,AUS,Austin - Bergstrom International Airport,Austin,TX,United States,30.194444,-97.67,10833250
+30,MDW,Chicago Midway International Airport,Chicago,IL,United States,41.786111,-87.7525,10659242
+31,HNL,Honolulu International Airport,Honolulu,HI,United States,21.318611,-157.9225,10142886
+32,DAL,Dallas Love Field Airport,Dallas,TX,United States,32.847222,-96.851667,8558748
+33,PDX,Portland International Airport,Portland,OR,United States,45.588611,-122.5975,8122972
+34,STL,Lambert-St. Louis International Airport,St. Louis,MO,United States,38.747222,-90.361389,7307484
+35,RDU,Raleigh-Durham International Airport,Raleigh-Durham,NC,United States,35.877778,-78.7875,7118489
+36,HOU,William P Hobby Airport,Houston,TX,United States,29.645556,-95.278889,6800033
+37,SMF,Sacramento International Airport,Sacramento,CA,United States,38.695556,-121.590833,6371886
+38,MSY,Louis Armstrong New Orleans International Airport,New Orleans,LA,United States,29.993333,-90.258056,6309141
+39,SJC,Norman Y. Mineta San Jose International Airport,San Jose,CA,United States,37.362778,-121.929167,5958619
+40,SJU,Luis Munoz Marin International Airport,San Juan,PR,United States,18.439167,-66.001944,5954281
+41,SNA,John Wayne Airport,Santa Ana,CA,United States,33.675556,-117.868333,5705714
+42,MCI,Kansas City International Airport,Kansas City,MO,United States,39.2975,-94.713889,5654059
+43,OAK,Oakland International Airport,Oakland,CA,United States,37.721389,-122.220833,5520622
+44,SAT,San Antonio International Airport,San Antonio,TX,United States,29.526667,-98.471944,5336605
+45,RSW,Southwest Florida International Airport,Fort Myers,FL,United States,26.536111,-81.755278,4963107
+46,CLE,Cleveland-Hopkins International Airport,Cleaveland,OH,United States,41.411667,-81.849722,4803705
+47,IND,Indianapolis International Airport,Indianapolis,IN,United States,39.717222,-86.294444,4788250
+48,PIT,Pittsburgh International Airport,Pittsburgh,PA,United States,40.496,-80.246,4492889
+49,CVG,Cincinnati/Northern Kentucky International Airport,Cincinnati,OH,United States,39.048889,-84.667778,4287688
+50,CMH,John Glenn Columbus International Airport,Columbus,OH,United States,39.998056,-82.891944,4094861
